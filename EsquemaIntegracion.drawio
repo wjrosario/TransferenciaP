@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T14:11:21.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HBLRJ68mM8NlM4izVtXJ" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T14:54:37.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nQsOgy0eXoFvqRo35DAZ" version="21.3.5" type="github">
   <diagram name="Página-1" id="RaMtiiYKtjLu5wNTfdg0">
-    <mxGraphModel dx="1760" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rZXe0J1JJOWMabNZCEwa-1" value="Vista BuscaOTPendiente" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="140" width="300" height="230" as="geometry" />
+          <mxGeometry x="10" y="100" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-2" value="OT (nvarchar(20))" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rZXe0J1JJOWMabNZCEwa-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry y="100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-15" value="[CORPLAB-DB-01\LABDB01].[ws].OTPendiente" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="300" height="380" as="geometry" />
+          <mxGeometry x="400" y="60" width="300" height="380" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-16" value="OT (nvarchar(20))" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="rZXe0J1JJOWMabNZCEwa-15">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry y="310" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-27" value="" style="shape=mxgraph.pid.vessels.pressurized_vessel;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;fillStyle=hatch;" vertex="1" parent="1">
-          <mxGeometry x="890" y="150" width="270" height="570" as="geometry" />
+          <mxGeometry x="790" y="110" width="270" height="570" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-28" value="SP CreaEncabezadoOT" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="50" width="180" height="30" as="geometry" />
+          <mxGeometry x="820" y="10" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rZXe0J1JJOWMabNZCEwa-2" target="rZXe0J1JJOWMabNZCEwa-16">
           <mxGeometry relative="1" as="geometry" />
@@ -71,49 +71,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-34" value="Company (nvarchar 10)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="180" width="140" height="30" as="geometry" />
+          <mxGeometry x="820" y="140" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-35" value="JobNum (nvarchar(20))" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="210" width="140" height="30" as="geometry" />
+          <mxGeometry x="820" y="170" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-36" value="CantidadOT (Int)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="240" width="170" height="30" as="geometry" />
+          <mxGeometry x="820" y="200" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-37" value="SecuenciaEnsamble (INT)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="275" width="190" height="30" as="geometry" />
+          <mxGeometry x="820" y="235" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-38" value="PartNum (nvarchar(50))" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="320" width="210" height="30" as="geometry" />
+          <mxGeometry x="820" y="280" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-39" value="IngAprobado (bit)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="360" width="140" height="30" as="geometry" />
+          <mxGeometry x="820" y="320" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-40" value="EstadoOT (bit)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="390" width="170" height="30" as="geometry" />
+          <mxGeometry x="820" y="350" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-41" value="CantidadEnsamble (int)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="430" width="200" height="30" as="geometry" />
+          <mxGeometry x="820" y="390" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-43" value="JobComplete (bit)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="470" width="200" height="30" as="geometry" />
+          <mxGeometry x="820" y="430" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-45" value="FilasProducidas (INT)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="510" width="170" height="30" as="geometry" />
+          <mxGeometry x="820" y="470" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-46" value="CantidadDeclarada (int)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="550" width="200" height="30" as="geometry" />
+          <mxGeometry x="820" y="510" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-47" value="CantidadTransferida" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="590" width="200" height="30" as="geometry" />
+          <mxGeometry x="820" y="550" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-48" value="Estado (bit)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="925" y="630" width="200" height="30" as="geometry" />
+          <mxGeometry x="825" y="590" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-49" value="Fecha (Datetime)" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="925" y="670" width="200" height="30" as="geometry" />
+          <mxGeometry x="825" y="630" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-52" value="Parametros:&lt;br style=&quot;font-size: 14px;&quot;&gt;-JobNum (nvarchar(20))&lt;br style=&quot;font-size: 14px;&quot;&gt;-Estado (nvarchar(10))" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillStyle=hatch;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="920" y="90" width="230" height="60" as="geometry" />
+          <mxGeometry x="820" y="50" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rZXe0J1JJOWMabNZCEwa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rZXe0J1JJOWMabNZCEwa-16" target="rZXe0J1JJOWMabNZCEwa-52">
           <mxGeometry relative="1" as="geometry" />
@@ -121,8 +121,8 @@
         <mxCell id="rZXe0J1JJOWMabNZCEwa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="rZXe0J1JJOWMabNZCEwa-21" target="rZXe0J1JJOWMabNZCEwa-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="840" y="335" />
-              <mxPoint x="840" y="135" />
+              <mxPoint x="740" y="295" />
+              <mxPoint x="740" y="95" />
             </Array>
           </mxGeometry>
         </mxCell>
